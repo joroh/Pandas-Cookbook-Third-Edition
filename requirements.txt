@@ -50,3 +50,4 @@ SQLAlchemy~=2.0.29
 statsmodels~=0.14.2
 xgboost~=2.1.1
 ydata-profiling~=4.9.0
+requests>=2.32.4 # not directly required, pinned by Snyk to avoid a vulnerability
